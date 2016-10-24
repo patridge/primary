@@ -1,0 +1,4 @@
+[submodule "secondary"]
+	path = secondary
+	url = git@github.com:alanmcgovern/secondary
+	branch = master
